@@ -1,0 +1,27 @@
+{
+  "name": "ssr-boiler-plate",
+  "version": "1.0.0",
+  "description": "Developing a baseline config SSR",
+  "main": "src/client/index.js",
+  "scripts": {
+    "test": ".js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrs341/SSR-Boiler-Plate.git"
+  },
+  "keywords": [
+    "Server",
+    "Side",
+    "Rendering",
+    "React",
+    "Redux",
+    "SASS"
+  ],
+  "author": "Jason Sinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrs341/SSR-Boiler-Plate/issues"
+  },
+  "homepage": "https://github.com/jrs341/SSR-Boiler-Plate#readme"
+}
